@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 from twilio.rest import Client
 
-# Bot Token ও Twilio ভেরিয়েবল
+# Bot Token ও Twilio
 TELEGRAM_BOT_TOKEN = "7768089054:AAFKzxJ8-Pu3PXyfklL7YaTBNtbn-Hf7Qdg"
 twilio_client = None
 account_sid = ""
