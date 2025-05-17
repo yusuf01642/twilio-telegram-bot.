@@ -1,1 +1,1 @@
-worker: bash start.sh
+worker: python twilio_bot.py
