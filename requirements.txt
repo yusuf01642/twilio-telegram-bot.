@@ -1,2 +1,2 @@
 python-telegram-bot==20.7
-twilio==9.0.0
+twilio==8.9.1
